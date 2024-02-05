@@ -7,7 +7,7 @@
 <b>Discipline | <b> Mechanical Engineering 
 :--|:--|
 <b> Lab | <b> ** Metrology and Measurement Lab**
-<b> Experiment|     <b> **Measurement of Screw Threads Parameters using Two-Wire or Three-Wire Methods and Experiment 7**
+<b> Experiment|     <b> **Measurement of Screw Threads Parameters using Two-Wire or Three-Wire Methods and Experiment 8**
 
 
 ### About the Experiment
