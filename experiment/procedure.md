@@ -8,8 +8,7 @@ Figure 1. Gear tooth vernier caliper with spur gear
 
 
 1. First click on 'Two-wire' under 'Experiment Parts'. Select 0.722 mm as the value of wire diameter d, 
-1.25 mm as the pitch of thread p and 25.08 mm as the distance between the outer surfaces of the two wires M from the
-respective dropdowns.
+1.25 mm as the pitch of thread p and 25.08 mm as the distance between the outer surfaces of the two wires M from the respective dropdowns.
 
 <div align="center">
 <img class="img-fluid"  src="./images/simu.png" alt=""><br> 
@@ -34,8 +33,7 @@ Follow steps 1-4 by selecting 0.866 mm as the value of wire diameter d, 1.5 mm a
 
 8. Click on the one wire and two wire to place them on the measuring faces of micrometer spindle and anvil.
 
-9. Follow steps 3-4 to measure the effective diameter ( E (mm)) and the value of H ( height of the threads in mm ).
+9. Follow steps 4-5 to measure the effective diameter ( E (mm)) and the value of H ( height of the threads in mm ).
 
 10. Click on the screw thread specimen to place it back to its previous position. Click on 'Clear' button.
-Follow steps 6-9 by selecting 0.866 mm as the value of wire diameter d, 1.5 mm as the pitch of thread p and 26.58 mm as the distance between the outer surfaces of the two wires M from the
-respective dropdowns. Click on 'Clear' button.
+Follow steps 7-9 by selecting 0.866 mm as the value of wire diameter d, 1.5 mm as the pitch of thread p and 26.58 mm as the distance between the outer surfaces of the two wires M from the respective dropdowns. Click on 'Clear' button.
